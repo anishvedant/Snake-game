@@ -102,7 +102,7 @@ class SNAKE:
         self.crunch_sound.play()
 
     def play_background_music(self):
-        pygame.mixer.music.load('Sound/music.wav')
+        pygame.mixer.music.load('Sound/music.mp3')
         pygame.mixer.music.play(-1, 0)
 
     def play_crash_sound(self):
