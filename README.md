@@ -1,9 +1,5 @@
-# Snake-game
-
----
-
 # Snake Game with Python and Pygame
-
+---
 This is a classic Snake game implemented in Python using the Pygame library. The game features end-to-end functionality with graphical elements, sound effects, and a highscore tracking system.
 
 ## Features
