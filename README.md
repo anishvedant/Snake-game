@@ -1,7 +1,5 @@
 # Snake-game
 
-Sure! Here's a comprehensive `README.md` for your Snake Game project, based on the provided code:
-
 ---
 
 # Snake Game with Python and Pygame
@@ -122,5 +120,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 This game is for educational purposes and personal enjoyment. Ensure you have the appropriate rights to use the graphic and sound assets included in the game.
 
 ---
-
-Feel free to adjust the `README.md` content according to your specific needs and preferences.
