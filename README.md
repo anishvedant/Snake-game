@@ -51,7 +51,7 @@ This is a classic Snake game implemented in Python using the Pygame library. The
 
 1. **Run the Game:**
    ```bash
-   python snake.py
+   python3 snake.py
    ```
 
 2. **Gameplay Instructions:**
